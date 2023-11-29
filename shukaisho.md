@@ -84,3 +84,10 @@ Notes
 - [Omoshiro Lab; おもしろラボ](https://omolab-en.hiroshima-u.ac.jp/)
 - [Mirai Crea; ミライクリエ](https://miraicrea.hiroshima-u.ac.jp/interaction/)
 - [Kougaku Alumni Building; 工学部同窓会館](https://hiro-kogyokai.com/jimukyoku/)
+- 池の上学生宿舎集会所
+- 池の上学生宿舎内 山中会館
+- 学生プラザ
+- 広島大学中央図書館 ライブラリーホール
+- 大学生協食堂
+- 大学会館
+- その他大講義室
