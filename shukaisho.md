@@ -1,4 +1,5 @@
 # Public Facility Information in Higashi-Hiroshima
+
 ## 1. Teranishi Community Center | 寺西地域センター
 - Location: [Google Maps](https://maps.app.goo.gl/nNR1zZ1mpfggj7Qg8)
 - Website (Japanese): [Higashi Hiroshima City](https://www.city.higashihiroshima.lg.jp/soshiki/chiikishinko/7/13/6/5/4291.html)
@@ -22,6 +23,8 @@ Additional fees to be added to the Hourly Fee in the following cases:
 3. When using heating: 20% of the Hourly Fee.
 
 In calculating the additional amount according to the provisions of items 1 to 3 above, if there is a fraction of less than ¥10, the fraction amount shall be rounded down.
+
+
 
 ## 2. Mitsujo Community Center (Shitami Welfare Hall) | 三ツ城地域センター（下見福祉会館）
 - Location: [Google Maps](https://maps.app.goo.gl/GdK8DKn6yvfEJp1t8)
@@ -47,6 +50,8 @@ Additional fees to be added to the Hourly Fee in the following cases:
 
 In calculating the additional amount according to the provisions of items 1 to 3 above, if there is a fraction of less than ¥10, the fraction amount shall be rounded down.
 
+
+
 ## 3. Hachihonmatsu Community Center | 八本松地域センター
 - Location: [Google Maps](https://maps.app.goo.gl/69pWeK8nBBU4aYAq8)
 - Website (Japanese): [Higashi Hiroshima City](https://www.city.higashihiroshima.lg.jp/soshiki/chiikishinko/7/13/6/6/4282.html)
@@ -67,10 +72,14 @@ In calculating the additional amount according to the provisions of items 1 to 3
 
 Additional fees to be added to the Hourly Fee in the following cases:
 1. When used by individuals, corporations, or organizations with an address or main office outside the region: 30% of the Hourly Fee.
-2. When using air conditioning
-
-: 30% of the Hourly Fee.
+2. When using air conditioning: 30% of the Hourly Fee.
 3. When using heating: 20% of the Hourly Fee.
 
 In calculating the additional amount according to the provisions of items 1 to 3 above, if there is a fraction of less than ¥10, the fraction amount shall be rounded down.
 
+
+Notes
+- [Sun Square](https://www.shiminbunka.org/)
+- [Kurara](https://kurara-hall.jp/usage-guidance/)
+- [Omoshiro Lab](https://omolab-en.hiroshima-u.ac.jp/)
+- [Mirai Crea](https://miraicrea.hiroshima-u.ac.jp/interaction/)
