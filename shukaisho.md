@@ -1,6 +1,7 @@
 # Facility Information
 ## 1. Teranishi Community Center
 - Location: [Google Maps](https://maps.app.goo.gl/nNR1zZ1mpfggj7Qg8)
+- Website(ja): [Higashi Hiroshima City](https://www.city.higashihiroshima.lg.jp/soshiki/chiikishinko/7/13/6/5/4291.html)
 - Operating Hours: 8:30 AM to 10:00 PM
 - Closed on: Public holidays and from December 29th to January 3rd (inclusive).
 - Parking: Available (Free, approximately 65 spaces).
@@ -24,6 +25,7 @@ In calculating the additional amount according to the provisions of items 1 to 3
 
 ## 2. Mitsujo Community Center (Shitami Welfare Hall)
 - Location: [Google Maps](https://maps.app.goo.gl/GdK8DKn6yvfEJp1t8)
+- Website(ja): [Higashi Hiroshima City](https://www.city.higashihiroshima.lg.jp/soshiki/chiikishinko/7/13/6/5/31721.html)
 - Operating Hours: 8:30 AM to 10:00 PM
 - Closed on: Public holidays and from December 29th to January 3rd (inclusive).
 - Parking: Available (Free, approximately 60 spaces).
