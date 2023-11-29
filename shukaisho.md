@@ -79,6 +79,7 @@ In calculating the additional amount according to the provisions of items 1 to 3
 
 
 Notes
+- [Hiroshima International Plaza; ひろしま国際プラザ(JICA中国)](https://hiroshima-hip.or.jp/rentalroom.html)
 - [Sun Square; 東広島市市民文化センター/サンスクエア東広島](https://www.shiminbunka.org/)
 - [Kurara; 東広島芸術文化ホール くらら](https://kurara-hall.jp/usage-guidance/)
 - [Omoshiro Lab; おもしろラボ](https://omolab-en.hiroshima-u.ac.jp/)
