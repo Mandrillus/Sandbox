@@ -1,5 +1,5 @@
-# Facility Information:**
-1. Teranishi Community Center
+# Facility Information
+## Teranishi Community Center
 - Location: [Google Maps](https://maps.app.goo.gl/nNR1zZ1mpfggj7Qg8)
 - Operating Hours: 8:30 AM to 10:00 PM
 - Closed on: Public holidays and from December 29th to January 3rd (inclusive).
